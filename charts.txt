@@ -1,0 +1,54 @@
+REDZONE
+Run:  20 plays, 76.92 % of total
+Pass:  6 plays, 23.08 % of total
+MOST USED FORMATIONS
+TREY RIGHT    8
+I RIGHT       5
+LEAST USED FORMATIONS
+UNBALANCED RIGHT     2
+TRIPS LEFT PISTOL    1
+MOST EFFICIENT FORMATION(S)
+SPREAD LEFT PISTOL 6.67 yd/f on 3 play(s)
+I RIGHT 4.0 yd/f on 5 play(s)
+LEAST EFFICIENT FORMATION(S)
+TREY LEFT 1.67 yd/f on 3 play(s)
+I LEFT 2.25 yd/f on 4 play(s)
+QUARTER(S) MOST IN ZONE
+QUARTER 4.0    12 PLAYS
+QUARTER 2.0    9 PLAYS
+*(quarters where team was most in the red zone)
+ 
+MIDFIELD
+Run:  27 plays, 72.97 % of total
+Pass:  10 plays, 27.03 % of total
+MOST USED FORMATIONS
+TREY RIGHT    15
+I RIGHT        5
+LEAST USED FORMATIONS
+I LEFT SLOT     1
+I RIGHT SLOT    1
+MOST EFFICIENT FORMATION(S)
+TRIPS RIGHT PISTOL 11.33 yd/f on 3 play(s)
+TREY RIGHT 10.07 yd/f on 15 play(s)
+LEAST EFFICIENT FORMATION(S)
+TREY LEFT 6.8 yd/f on 5 play(s)
+I RIGHT 8.8 yd/f on 5 play(s)
+QUARTER(S) MOST IN ZONE
+QUARTER 2.0    19 PLAYS
+QUARTER 3.0    12 PLAYS
+*(quarters where team was most middle)
+ 
+BACKED UP
+Run:  1 plays, 50.0 % of total
+Pass:  1 plays, 50.0 % of total
+MOST USED FORMATIONS
+I LEFT TITE    1
+I RIGHT        1
+LEAST USED FORMATIONS
+I LEFT TITE    1
+I RIGHT        1
+[NOT BIG ENOUGH SAMPLE SIZE TO FIND PLAY EFFICIENCY]
+QUARTER(S) MOST IN ZONE
+QUARTER 1.0    2 PLAYS
+*(quarters where team was most backed up)
+ 
